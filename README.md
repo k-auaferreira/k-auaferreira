@@ -33,6 +33,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/k-auaferreira/k-auaferreira/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -49,6 +51,11 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif"  />
+</div>
+
+###
 <!--
 **k-auaferreira/k-auaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
