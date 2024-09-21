@@ -1,8 +1,15 @@
+
+<h2 align="left">Hi there, welcome to my GitHub profile</h2>
+
+<p align="left">• My name is Kauã Ferreira and i'm a Front-end Developer, from SP, Brazil</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">- Software Development Student at @FIAP</p>
+<p align="left">• Software Development Student at FIAP</p>
 
 ###
 
