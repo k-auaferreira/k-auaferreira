@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="center">SKILLS</h3>
+<h2 align="center">SKILLS</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="center">SOCIAL</h3>
+<h2 align="center">SOCIAL</h2>
 
 ###
 
