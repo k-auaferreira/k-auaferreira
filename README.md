@@ -42,10 +42,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaua-ferreira" target="_blank">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-ferreira-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo" />
   </a>
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="30" alt="steam logo"  />
 </div>
 
 ###
