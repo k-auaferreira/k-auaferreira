@@ -1,4 +1,5 @@
-<img align="right" width="150px" style="margin-top:-20px" src="">
+<img align="right" width="279px" z-index="0" style="margin-top:-25px" src="./user.png">
+</br>
 </br>
 </br>
 </br>
@@ -7,7 +8,6 @@
 </br>
 
 <div dsplay="inline-block">
-
  
  <h1 align="left">Kauã Ferreira</h1>
  <a href="https://www.linkedin.com/in/kau%C3%A3-ferreira-/" target="_blank">
