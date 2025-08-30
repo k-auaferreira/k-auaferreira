@@ -1,12 +1,3 @@
-<img align="right" width="279px" z-index="0" style="margin-top:-25px" src="./user.png">
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 
 <div dsplay="inline-block">
@@ -21,11 +12,6 @@
 
 </div>
 
-
-
-
-
-</br>
 </br>
 
 ## Hey there!! 🤓
