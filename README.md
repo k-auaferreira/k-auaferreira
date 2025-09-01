@@ -51,12 +51,3 @@
 
 <a href="https://github.com/k-auaferreira" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <a href="https://www.linkedin.com/in/kau%C3%A3-ferreira-/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
-##
-
-<p align="center">
-<a href="https://github.com/k-auaferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-auaferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-auaferreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"/>
-</a>
-</p>
