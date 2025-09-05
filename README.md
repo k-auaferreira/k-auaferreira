@@ -10,21 +10,23 @@
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" height="30" style="vertical-align:top;">
   </a>
 
+  </br>
+  </br>
+  </br>
+
+  <div align="center">
+    <img width="600px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif"  />
+  </div>
+
 </div>
 
 </br>
 
 ## Hey there!! 🤓
 
-<p></p>
-
-</br>
-
-<div align="center">
-  <img width="600px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif"  />
-</div>
-
-</br>
+- Undergraduate student in Systems Analysis and Development at FIAP.
+- Passionate about programming and front-end development.
+- Intern at TOTVS | Fluig Team 🔥🚀
 
 ### 🖥️ Tech Stack: 
 <div align="left">
@@ -35,19 +37,3 @@
   <img src="https://img.shields.io/badge/Java-FFA500?logo=java&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git logo"  />
 </div>
-
-</br>
-</br>
-
-<div display="inline-block">
- <p align="left"></p>
- <p align="left"></p>
- <p align="left"></p>
- <p align="left"></p>
- <p align="left"></p>
-</div>
-
-</br>
-
-<a href="https://github.com/k-auaferreira" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<a href="https://www.linkedin.com/in/kau%C3%A3-ferreira-/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
