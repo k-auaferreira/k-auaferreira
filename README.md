@@ -1,5 +1,3 @@
-</br>
-
 <div dsplay="inline-block">
  
  <h1 align="left">Kauã Ferreira</h1>
