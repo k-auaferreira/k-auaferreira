@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/Java-FFA500?logo=java&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/java-FFA500.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Fluig-007ACC?style=for-the-badge&logo=totvs&logoColor=white" height="30" alt="fluig logo"/>
 </div>
