@@ -24,7 +24,7 @@
 
 - Undergraduate student in Systems Analysis and Development at FIAP.
 - Passionate about programming and front-end development.
-- Intern at TOTVS | Fluig Team 🔥🚀
+- Junior Developer at TOTVS | Fluig Team 🔥🚀
 
 ### 🖥️ Tech Stack: 
 <div align="left">
